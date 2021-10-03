@@ -1,0 +1,12 @@
+body
+{
+background-image: url("background1.jpg");
+}
+#mymodal{
+background-color: aqua;
+height: 30%;
+width: 50%;
+position:relative;
+right: 50%;
+top: 0%;
+}
